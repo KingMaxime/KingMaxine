@@ -142,8 +142,9 @@
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/KingMaxine/KingMaxine"><img alt="KingMaxine's activity graph" src="https://activity-graph.herokuapp.com/graph?username=KingMaxine&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<p align="center">
+<a href="https://github.com/KingMaxine/KingMaxine"><img alt="KingMaxine's activity graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Kingmaxine&theme=dark&hide_border=false" /></a>
+</p>
 
 <p align="right">
   <a href="https://github.com/KingMaxine?tab=repositories&sort=stargazers">
