@@ -146,7 +146,7 @@
 <a href="https://github.com/KingMaxine/KingMaxine"><img alt="KingMaxine's activity graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Kingmaxine&theme=dark&hide_border=false" /></a>
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/KingMaxine?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KingMaxine"/></a>
   <a href="https://github.com/KingMaxine?tab=followers">
