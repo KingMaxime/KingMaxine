@@ -146,7 +146,7 @@
 <a href="https://github.com/KingMaxine/KingMaxine"><img alt="KingMaxine's activity graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Kingmaxine&theme=dark&hide_border=false" /></a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/KingMaxine?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KingMaxine"/></a>
   <a href="https://github.com/KingMaxine?tab=followers">
@@ -157,5 +157,6 @@
 <br />
 
 ## 📊 Stats
-
-[![Metrics](https://metrics.lecoq.io/KingMaxine?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/KingMaxine)
+<div align="center">
+[![Metrics](https://metrics.lecoq.io/KingMaxine?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/KingMaxine
+</div>
