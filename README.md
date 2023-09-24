@@ -1,11 +1,13 @@
 <p align="center">
-  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20developer;Learning%20Web%20Development;1%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/IlliaButenko"><img src="https://readme-typing-svg.herokuapp.com/?lines=Veteran%20developer;Learning%20Web%20Development;2%2B%20years%20of%20rich%20experience;
+  Backend%20Developer;
+  Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/KingMaxine?style=social">
 <img src="https://img.shields.io/twitter/follow/kingmaxine?style=flat">
-  <img src="https://img.shields.io/static/v1?label=%E2%98%80%EF%B8%8F&message=Student&style=style=flat&color=red">
+  <img src="https://img.shields.io/static/v1?label=%E2%98%80%EF%B8%8F&message=Veteran&style=style=flat&color=red">
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%99&message=Love%20coding&style=style=flat&color=blue">
 </p>
 
@@ -19,14 +21,17 @@
 <br/>
 
 <h1>[WEB Development]</h1>
-<b>I have +1 years of rich and very strong experience in this stack and skills.</b><br>
-<br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-<br>&nbsp; &nbsp; ✓ Web service: XML/JSON, REST/SOAP, Expressjs, Nestjs
+<b>I have 2+ years of rich and very strong experience in this stack and skills.</b><br>
+<br>&nbsp; &nbsp; ✓ MySQL, SQLite, PostgreSQL, MongoDB, Redis
+<br>&nbsp; &nbsp; ✓ Message Brokers: RabbitMq and Zeromq
+<br>&nbsp; &nbsp; ✓ Prisma, Typeorm, Typegoose, Mongoose
+<br>&nbsp; &nbsp; ✓ Unit test: Jest and Mocha
+<br>&nbsp; &nbsp; ✓ Web service: XML/JSON, REST/SOAP, Expressjs, Nestjs, Grpc
 <br>&nbsp; &nbsp; ✓ Github, Gitlab
 <br>&nbsp; &nbsp; ⏳ HTML5, GO, Javascript/Typescript and their frameworks
-<br>&nbsp; &nbsp; ⏳ React/React Native, Nestjs, Vue/Nuxt, Angular, Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
+<br>&nbsp; &nbsp; ⏳ React/React Native, Nextjs, Vue/Nuxt, Angular, Hybrid: iOS, Android, Ionic (HTML5, jQuery Mobile)
 <br>&nbsp; &nbsp; ⏳ Figma/XD/PSD design to Frontend with pixel perfect and full responsive
-<br>&nbsp; &nbsp; ⏳ Cloud backend: Firebase, Amazon: S3, EC2, AWS
+<br>&nbsp; &nbsp; ✓ Cloud backend: Firebase, Amazon: S3, EC2, AWS
 <br>&nbsp; &nbsp; ⏳ Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
 <br/>
 <br/>
