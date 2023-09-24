@@ -11,9 +11,9 @@
 
 <h1>Contact me</h1>
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbiala04@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingmaxinetg@gmail.com)
 [![image](https://img.shields.io/badge/Twitter-3390ec?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KingMaxine)
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KingMaxime)
 [![image](https://img.shields.io/badge/Linkedin-0078d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 <br/>
 <br/>
